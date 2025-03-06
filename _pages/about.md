@@ -7,17 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-**Education**
-South China Normal University
+# Education
+South China Normal University(Bachelor)
 2021.09 - 2025.06
 
-XiaMen University
+XiaMen University(Master)
 2025.09 - 
 
-**Publications**
+# Publications
 None
 
-**Honors**
+
+# Awards
 Awarded the First Prize in the National Finals of the Huawei ICT Competition (2023 - 2024)
 
 
