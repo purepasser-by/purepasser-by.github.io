@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 title                    : "Junyu Cheng"
-title                    : "Profile"
+title                    : "Junyu Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
