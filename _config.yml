@@ -7,8 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "LiTang"
-# title                    : "Personal Profile"
+locale                   : "China"
+title                    : "Junyu Cheng"
+title                    : "Profile"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
