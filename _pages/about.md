@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-He is pursuing his master's degree at the School of Information, Xiamen University, and conducts research in the [Natural Language Processing Laboratory](http://nlp.xmu.edu.cn/). His research focuses on machine translation, sign language translation, and large language models.
+He is pursuing his master's degree at the School of Information, Xiamen University, and conducts research in the [Natural Language Processing Laboratory](http://nlp.xmu.edu.cn/). His research focuses on (multimodal) large language models.
 
 ---
 
