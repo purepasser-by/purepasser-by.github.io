@@ -24,7 +24,7 @@ Pursuing Master's Degree of Artificial Intelligence, *2025.09 - Present*
 
 ---
 # Publications
-Junyu Cheng#, Chang Pan#, Shuangyin Li*. ToneCraft: Cantonese Lyrics Generation with Harmony of Tones and Pitches. In Proc. of **EMNLP 2025**.
+\[**EMNLP 2025**\](Main) Junyu Cheng#, Chang Pan#, Shuangyin Li*. ToneCraft: Cantonese Lyrics Generation with Harmony of Tones and Pitches.
 
 
 ---
