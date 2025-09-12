@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Junyu Cheng(程俊羽)"
+title                    : "Junyu Cheng"
 title                    : "Junyu Cheng's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "fll.png"
-  name             : "Junyu Cheng"
+  name             : "Junyu Cheng(程俊羽)"
   pronouns         : "♂"
   bio              : ""
   location         : "Xiamen, China"
