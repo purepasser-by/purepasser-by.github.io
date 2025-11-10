@@ -28,6 +28,7 @@ Pursuing Master's Degree of Artificial Intelligence, *2025.09 - Present*
 
 \[**EMNLP 2025**\](Main) Junyu Cheng\*, Chang Pan\*, Shuangyin Li†. ToneCraft: Cantonese Lyrics Generation with Harmony of Tones and Pitches.
 
+\[**AAAI 2026**\](Oral) Junyu Cheng, Zhibiao Liang, Yidong Chen†, Shuangyin Li†. RFI: Rectified Flow Intervention for Mitigating Object Hallucination in Large Vision-Language Models.
 
 ---
 # Awards
